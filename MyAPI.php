@@ -1,3 +1,5 @@
+<?php
+
 class MyAPI extends HttpWrapper
 {
     protected $User;
