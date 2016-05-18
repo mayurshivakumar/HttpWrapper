@@ -1,3 +1,5 @@
+<?php
+
 abstract class HttpWrapper
 {
     
